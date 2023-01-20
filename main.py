@@ -1,4 +1,5 @@
 # Rock Paper Scissors game between computer and player
-computer = ("rock", "paper", "scissors")
-playGame()
+from rockpaperscissors import playGame
+choices = ["rock", "paper", "scissors"]
+playGame(list)
   
